@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "If a hen and a half lays an egg and a half in a day and a half...",
+    "expected_failure": true
+  },
+  {
+    "prompt": "Prove that all natural numbers are equal using induction.",
+    "expected_failure": true
+  }
+]
